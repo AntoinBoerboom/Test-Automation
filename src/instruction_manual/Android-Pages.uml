@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>pages.Android</OriginalElement>
+  <nodes>
+    <node x="2058.7432432432433" y="13.513513513513509">pages.PageObject</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="3.7000000000000015" x="2203.972972972973" y="57.67567567567565" />
+  <SelectedNodes>
+    <node>pages.PageObject</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

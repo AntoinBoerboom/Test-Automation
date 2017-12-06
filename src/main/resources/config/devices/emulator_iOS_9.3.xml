@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>settings for testing on an emulated android device</comment>
+    <!--global settings-->
+    <entry key="appium-version">1.6.4</entry>
+    <entry key="platformType">iOS</entry>
+    <entry key="platformVersion">9.3</entry>
+    <entry key="deviceName">iPhone Simulator</entry>
+    <entry key="bundleId">com.lifeear.mainapp.dev</entry>
+    <entry key="UDID">BD006440-BFC5-4F91-B33A-A6ED2CC75D25</entry>
+    <entry key="automationName">XCUITest</entry>
+    <entry key="emulated">true</entry>
+</properties>

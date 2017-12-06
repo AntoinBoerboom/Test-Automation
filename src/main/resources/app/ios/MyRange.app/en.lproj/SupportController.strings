@@ -1,0 +1,32 @@
+
+/* Class = "UIButton"; normalTitle = "Hearing aids"; ObjectID = "MeH-kO-eIV"; */
+"MeH-kO-eIV.normalTitle" = "LifeEar";
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "MBY-ah-dHq"; */
+"MBY-ah-dHq.normalTitle" = "Terms and Conditions";
+
+/* Class = "UIButton"; normalTitle = "Call the helpdesk"; ObjectID = "OoR-sE-a0a"; */
+"OoR-sE-a0a.normalTitle" = "Call customer support";
+
+/* Class = "UILabel"; text = "Need personal assistance?"; ObjectID = "PBs-f3-WdD"; */
+"PBs-f3-WdD.text" = "Need support?";
+
+/* Class = "UIButton"; normalTitle = "Chat with helpdesk"; ObjectID = "TIL-I9-aVk"; */
+"TIL-I9-aVk.normalTitle" = "Mail customer support";
+
+/* Class = "UIButton"; normalTitle = "Chat with helpdesk"; ObjectID = "812-i7-VUI"; */
+"812-i7-VUI.normalTitle" = "Chat with customer support";
+
+/* Class = "UIButton"; normalTitle = "Hub"; ObjectID = "X0Q-zc-dd5"; */
+"X0Q-zc-dd5.normalTitle" = "Hub";
+/* Class = "UIButton"; normalTitle = "Privacy statement"; ObjectID = "aSM-f5-pJf"; */
+"aSM-f5-pJf.normalTitle" = "Privacy policy";
+
+/* Class = "UIButton"; normalTitle = "App"; ObjectID = "cK5-Jx-4hL"; */
+"cK5-Jx-4hL.normalTitle" = "Frequently Asked Questions";
+
+/* Class = "UILabel"; text = "I need help with my..."; ObjectID = "khC-vz-Enz"; */
+"khC-vz-Enz.text" = "LifeEar customer support";
+/* Class = "UIButton"; normalTitle = "End-User License Agreement"; ObjectID = "kGz-50-GQf"; */
+"kGz-50-GQf.normalTitle" = "End-User License Agreement";
+/* Class = "UILabel"; text = "Legal"; ObjectID = "y4Y-pg-n5O"; */
+"y4Y-pg-n5O.text" = "Legal";

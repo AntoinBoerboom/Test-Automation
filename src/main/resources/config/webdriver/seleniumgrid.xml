@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>settings for testing with selenium grid and web driver</comment>
+    <!--global settings-->
+    <entry key="timeOut">30</entry>
+    <entry key="interval">300</entry>
+    <!-- This key is used decide which configuration class to build -->
+    <!-- False means local, true means remote -->
+    <entry key="Remote">true</entry>
+    <entry key="Emulated">false</entry>
+    <entry key="SeleniumHubUrl">http://localhost</entry>
+    <entry key="SeleniumHubPort">4444</entry>
+</properties>
