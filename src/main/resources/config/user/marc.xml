@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-    <comment>Login account of a user</comment>
-    <!--global settings-->
-    <entry key="username">marc@niobe.nl</entry>
-    <entry key="password">12345678</entry>
-</properties>
